@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'KiaSignatureFixBold';
+    src: url('/font/KiaSignatureBold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KiaSignatureFixLight';
+    src: url('/font/KiaSignatureLight.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KiaSignatureFixRegular';
+    src: url('/font/KiaSignatureRegular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    font-family: "KiaSignatureFixRegular", sans-serif;
+  }
